@@ -30,4 +30,7 @@ Write a Python program to display the current date and time.
 Write a Python program that calculates the area of a circle based on the radius entered by the user.
 [Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/4-Area_of_circle.py)
 
+### 5. Accept users name and reverse the Output
+Write a Python program that accepts the user's first and last name and prints them in reverse order with a space between them
+[Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/5.UserDetInRev.py)
 
