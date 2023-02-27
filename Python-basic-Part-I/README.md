@@ -34,3 +34,7 @@ Write a Python program that calculates the area of a circle based on the radius 
 Write a Python program that accepts the user's first and last name and prints them in reverse order with a space between them
 [Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/5.UserDetInRev.py)
 
+### 6. Accepts comma seperated values and create a list and a tupple
+Write a Python program that accepts a sequence of comma-separated numbers from the user and generates a list and a tuple of those numbers.
+[Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-bas,c-Part-I/6.AcceptCommasSeperated.py)
+
