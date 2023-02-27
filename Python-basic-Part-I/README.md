@@ -13,7 +13,7 @@ Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up ab
 		Like a diamond in the sky. 
 Twinkle, twinkle, little star, 
 	How I wonder what you are``
-[check solutions]("https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/1-Print_string.py")
+<link href="https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/1-Print_string.py">check solution</link>
 
 ### 2. python version
 Write a Python program to find out what version of Python you are using.
