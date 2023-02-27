@@ -13,9 +13,15 @@ Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up ab
 		Like a diamond in the sky. 
 Twinkle, twinkle, little star, 
 	How I wonder what you are``<br>
-[Click to Check solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/1-Print_string.py)	
+[Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/1-Print_string.py)	
 
 ### 2. python version
 Write a Python program to find out what version of Python you are using.\
-[Click to Check solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/2-python_version.py)	
+[Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/2-python_version.py)	
 
+### 3. Current date and time
+Write a Python program to display the current date and time.
+`Sample Output :`
+`Current date and time :
+2014-07-05 14:34:14`
+[Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/3-current-date-time.py)	
