@@ -24,4 +24,10 @@ Write a Python program to display the current date and time.
 `Sample Output :`
 `Current date and time :
 2014-07-05 14:34:14`
-[Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/3-current-date-time.py)	
+[Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/3-current-date-time.py)
+
+### 4. Area of a circle
+Write a Python program that calculates the area of a circle based on the radius entered by the user.
+[Click to Check sample solutions](https://github.com/castorichy/python-exercises/blob/main/Python-basic-Part-I/4-Area_of_circle.py)
+
+
